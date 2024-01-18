@@ -6,6 +6,6 @@ Power BI 프로젝트 시작 직후, VSCode 혹은 터미널을 활용해 해당
 
 • Azure Data Factory ETL 오류 모니터링
 
-• Azure Cost Management
+• Azure Cost Management 보고서
 
 • Power BI Project 일정/이슈관리
