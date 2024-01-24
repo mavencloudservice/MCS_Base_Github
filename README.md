@@ -6,7 +6,7 @@
 
 • Azure Data Factory ETL 오류 모니터링
 
-• Azure Cost Management 보고서
+• [Azure Cost Management 보고서](https://app.powerbi.com/view?r=eyJrIjoiYTA2MGQ5YjktYjYzMC00ZGYxLWIxZjAtNGZjMDFlM2MyY2Q0IiwidCI6IjdlNjkwZDliLTFkMjAtNGZmYS05ZjI1LTMzOGUyMWQ3NWI1MCIsImMiOjEwfQ%3D%3D)
 
 • Apps & Power Automate 연계 활용
 
