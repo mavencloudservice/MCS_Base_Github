@@ -10,4 +10,4 @@
 
 • Apps & Power Automate 연계 활용
 
-• Power BI Project 일정/이슈관리
+• 일정/이슈관리
