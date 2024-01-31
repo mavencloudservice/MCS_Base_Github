@@ -10,4 +10,4 @@
 
 • Apps & Power Automate 연계 활용
 
-• 일정/이슈관리
+• [Azure DevOps 일정/이슈관리 보고서](https://app.powerbi.com/view?r=eyJrIjoiYTJhOWMzMDktM2YwOC00ODIwLWJkYTEtOGJmYzM1MjIwZTJhIiwidCI6IjdlNjkwZDliLTFkMjAtNGZmYS05ZjI1LTMzOGUyMWQ3NWI1MCIsImMiOjEwfQ%3D%3D)
